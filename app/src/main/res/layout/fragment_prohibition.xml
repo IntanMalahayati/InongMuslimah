@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="30dp"
+    android:paddingRight="30dp"
+    android:layout_marginTop="15dp"
+    android:background="@color/soft_pink"
+    tools:context=".ProhibitionFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18dp"
+        android:fontFamily="@font/poppins_regular"
+        android:text="@string/fragment_prohibition"
+        android:layout_marginBottom="20dp"
+        />
+
+    <ImageView
+        android:id="@+id/imgFragment1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/ft1" />
+
+    <ImageView
+        android:id="@+id/imgFragment2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="370dp"
+        android:src="@drawable/ft2" />
+
+<!--    <ImageView-->
+<!--        android:id="@+id/imgFragment3"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="200dp"-->
+<!--        android:layout_gravity="center_horizontal"-->
+<!--        android:layout_marginTop="415dp"-->
+<!--        android:src="@drawable/ft3" />-->
+
+</RelativeLayout>

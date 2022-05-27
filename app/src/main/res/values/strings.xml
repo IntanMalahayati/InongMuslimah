@@ -1,0 +1,35 @@
+<resources>
+    <!--    nama app-->
+    <string name="app_name">Inong Muslimah</string>
+
+    <!--    edit teks-->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmpass">Confirm password</string>
+
+    <!--    button-->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+
+    <!--    dekskripsi-->
+    <string name="fragment_home">FRAGMENT HOME</string>
+    <string name="fragment_calender">CALENDER</string>
+    <string name="fragment_prohibition">Larangan-larangan wanita haid berdasarkan dalil dan kepercayaan yang dipercaya Orang Aceh</string>
+    <string name="track_puasa">Track your fast</string>
+    <string name="tinggal_puasa">Catat berapa lama tinggal puasa mu</string>
+    <string name="track_salat">Track your salat</string>
+    <string name="tinggal_salat">Catat berapa lama tinggal salat mu</string>
+    <string name="larangan">Know about the prohibition of women when haid</string>
+    <string name="larangan_haid">Kenali larangan bagi wanita haid yang dipercaya masyarakat Aceh</string>
+    <string name="forgetpass">Forget Password?</string>
+    <string name="donthaveaccount">Doesn’t have an account ? Sign up</string>
+    <string name="createaccount">Create Account with Email</string>
+    <string name="already">Already have an account ? Log in</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
